@@ -9,3 +9,4 @@
 - 04Folium_Use : 지도 데이터 시각화를 활용해서 서울시에 있는 대피소 방재시설을 표시해보았습니다.
 - 05Naive Bayes : iris data를 이용한 GausianNB 실습과 난수를 이용한 MultinomialNB 실습
 - 06KNN : iris data를 이용한 kNN 실습. weight가 uniform일 때와 distance일 때 비교
+- 08LDA : 임의의 데이터를 이용해 LDA와 QDA의 성능 비교 실습
