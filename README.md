@@ -1,5 +1,6 @@
 # Practice_for_Data_Analysis
-데이터 분석에 관한 연습을 기록하는 저장소입니다.\n
+데이터 분석에 관한 연습을 기록하는 저장소입니다.
+
 블로그 : https://blog.naver.com/caeruleum00 
 
 - 01Basic : pandas에 관한 기본 사용법을 정리해두었습니다.
